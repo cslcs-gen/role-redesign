@@ -1,0 +1,7 @@
+name = "role-redesign-worker"
+main = "worker/index.js"
+compatibility_date = "2024-03-01"
+
+[[kv_namespaces]]
+binding = "ROLE_REDESIGN_KV"
+id = "role_redesign_kv_id_placeholder"
